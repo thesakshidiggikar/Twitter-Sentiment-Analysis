@@ -51,7 +51,7 @@ Neutral: 15%
 ## 🔥 Future Enhancements
 ✅ Support for more NLP models (e.g., **VADER, BERT**)
 ✅ GUI for an interactive sentiment analysis experience
-✅ Deployment as a **web app**
+✅ Deployment as a **Software Developer Engineer**
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
